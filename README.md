@@ -35,7 +35,7 @@ The dashboard delivers actionable insights by applying **cohort analysis methodo
 - `Cohort Matrix_ Employee Retention %.twbx` – Tableau packaged workbook file  
 - `Employee Retention % Cohort Analysis` – Images of dashboard views  
 
-- [Download}(https://drive.google.com/drive/folders/1bcT8M4DxDli6fyKb0MVv7wkBSMwjwxl6?usp=sharing) 
+- [Download](https://drive.google.com/drive/folders/1bcT8M4DxDli6fyKb0MVv7wkBSMwjwxl6?usp=sharing) 
 ---
 
 ## 📌 Key Features of the Dashboard
