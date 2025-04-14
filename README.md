@@ -40,7 +40,7 @@ The dashboard delivers actionable insights by applying **cohort analysis methodo
 
 ## 📌 Key Features of the Dashboard
 
-- 📅 **Cohort-based Retention Tracking:** Shows percentage of employees retained every week up to 65 weeks since joining  
+- 📅 **Cohort-based Retention Tracking:** Shows percentage of employees retained every week up to recent 65  
 - 🔄 **Employee Left Count:** Highlights how many employees exited in each week  
 - 🌍 **Location Grouping:** Smart categorization of `Primary Work Locations` into:
   - North London
@@ -50,14 +50,18 @@ The dashboard delivers actionable insights by applying **cohort analysis methodo
   - Greater London
   - Outside London
 
-- 📊 **Interactive Views:** Filter by work country, start date, and cohort grouping  
+- 📊 **Interactive Views:** Filter by group location, start date, and cohort grouping  
 - 🧠 **Business-Ready Visuals:** Suitable for executive reviews, HR dashboards, and predictive workforce planning
 
 ---
 
 ## 📊 Sample Visual (Dashboard Screenshot)
 
-![Retention Cohort Matrix](screenshots/retention_dashboard.png)
+![Employee Retention % Cohort Analysis Overall](https://github.com/user-attachments/assets/1783364f-7c7e-4892-9d7a-c30bc86c46a7)
+---
+
+
+![Employee Retention % Cohort Analysis Filtered](https://github.com/user-attachments/assets/afdb248c-2dca-4fb8-82b3-41b12c341e55)
 
 ---
 
@@ -69,13 +73,12 @@ The dashboard delivers actionable insights by applying **cohort analysis methodo
 - `primary_work_location`  
 - `worker_start_date`  
 - `termination_date`  
-- `retention_week_01` to `retention_week_65` (binary status flags)
 
 ### ➤ Cohort Logic
-- Each employee was grouped by their **start week**.
-- Retention flags per week were calculated based on the difference between `start date` and `termination date`.
-- A matrix view was created with **rows as cohort weeks** and **columns as Retention Week 01 to 65**.
-- **% Retained** was calculated as:
+- Each employee was grouped by their **cohort week**.
+- Retention flags per week were calculated based on the difference between `work start date` and `termination date`.
+- A matrix view was created with **rows as cohort weeks** and **Column as Tenure 65**.
+- **Retention %** was calculated as:
 
 
 
@@ -116,12 +119,11 @@ Full breakdown of 41 unique locations grouped and de-duplicated.
 
 ## 🔗 Connect with Me
 
-📇 **Kavitha Mohan**  
+📇 **Mohan Anbazhagan**  
 🎯 *Business Analytics Strategist – myeX Analytics*  
-📧 **Email:** [your-email@example.com]  
-🔗 **LinkedIn:** [https://linkedin.com/in/your-link](https://linkedin.com/in/your-link)  
+📧 **Email:** [avmohaneee@gmail.com]  
+🔗 **LinkedIn:** [[https://linkedin.com/in/your-link](https://linkedin.com/in/your-link]  
 📂 **Portfolio:** [myeX Analytics Portfolio](https://github.com/iammohan8)  
-🌍 **Region:** India (Serving clients globally – UK, US, Asia)
 
 ---
 
