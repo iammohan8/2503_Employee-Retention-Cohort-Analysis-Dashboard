@@ -121,18 +121,9 @@ Full breakdown of 41 unique locations grouped and de-duplicated.
 
 📇 **Mohan Anbazhagan**  
 🎯 *Business Analytics Strategist – myeX Analytics*  
-📧 **Email:** [avmohaneee@gmail.com]  
-🔗 **LinkedIn:** [[https://linkedin.com/in/your-link](https://linkedin.com/in/your-link]  
-📂 **Portfolio:** [myeX Analytics Portfolio](https://github.com/iammohan8)  
-
----
-
-## 🏁 How to Use
-
-1. Download `TEST Dash.twbx` and open in Tableau Desktop.
-2. Review `TEST DATA.xlsx` for input structure.
-3. Explore different cohort filters in the dashboard to view insights by region and time.
-4. Modify groupings or parameters to adapt to other markets or locations.
+📧 **Email:** [avmohaneee@gmail.com]
+🔗 [LinkedIn](https://www.linkedin.com/in/mohan-anbazhagan-82b56161) 
+📂 [Portfolio](https://github.com/iammohan8)  
 
 ---
 
